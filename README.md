@@ -613,6 +613,8 @@ Minimum required xml markup for the browserconfig.xml file is as follows:
 
 The Front-End Checklist is also available in other languages. Thanks for all translators and their awesome work!
 
+
+
 * 🇯🇵 Japanese: [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist)
 * 🇪🇸 Spanish: [eoasakura/Front-End-Checklist-ES](https://github.com/eoasakura/Front-End-Checklist-ES)
 * 🇨🇳 Chinese: [JohnsenZhou/Front-End-Checklist](https://github.com/JohnsenZhou/Front-End-Checklist)
@@ -676,3 +678,4 @@ If you have any question or suggestion, don't hesitate to use Gitter or Twitter:
 [low_img]: http://res.cloudinary.com/djnyaloac/image/upload/v1508238836/level-checklist-low.png
 [medium_img]: http://res.cloudinary.com/djnyaloac/image/upload/v1508238836/level-checklist-medium.png
 [high_img]: http://res.cloudinary.com/djnyaloac/image/upload/v1508238836/level-checklist-high.png
+
